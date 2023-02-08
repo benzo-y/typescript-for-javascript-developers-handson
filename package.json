@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/benzo-y/typescript-for-javascript-developers-handson/issues"
   },
-  "homepage": "https://github.com/benzo-y/typescript-for-javascript-developers-handson#readme"
+  "homepage": "https://github.com/benzo-y/typescript-for-javascript-developers-handson#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }
